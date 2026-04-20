@@ -1,4 +1,4 @@
-# 💰 Personal Finance Intelligence System
+# Personal Finance Intelligence System
 
 A complete data-driven personal finance analyzer built with Python and Streamlit.
 
